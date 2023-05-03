@@ -1,6 +1,8 @@
 
 ### impossible
 
+![impossible_challenge](https://github.com/Hed6eH0g/ctf/blob/main/2023/angstromctf/crypto/impossible/impossible0.png)
+
 The conditions look impossible but we can find that the functions zero_encoding and one_encoding are vulnerable to overflow.
 To pass the condition, we can set `x` and `y` as `x = 2^64` and `y = 2^64-1`, for example, and then, we got the flag.
 
