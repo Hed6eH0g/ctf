@@ -5,7 +5,7 @@
 ![rsa2_chall](https://github.com/Hed6eH0g/ctf/blob/main/2023/angstromctf/crypto/royal%20society%20of%20arts%202/royal_society_of_arts_2_0.png)
 
 This challenge allows us to input an arbitrary public key and return the corresponding secret key.
-But some inputs such as the plaintext itself or 'actf{xxxxx}' are prohibited and we have to bypass this for the flag.
+But some inputs such as the plaintext itself or `actf{xxxxx}` are prohibited and we have to bypass this for the flag.
 
 Since we have the information about `n, e, c` and the plaintext `m` was encrypted by `c = m^e mod n`, a special plaintext `2m` would be obtained by testing `2^e c` as the input.
 After that, the flag can recover by dividing `2` as follows:
