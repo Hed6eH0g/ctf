@@ -21,8 +21,8 @@
 
 ### crypto
 
-- [ranch]()
-- [impossible]()
-- [Royal Society of Arts]()
-- [Royal Society of Arts2]()
+- [ranch](https://github.com/Hed6eH0g/ctf/blob/main/2023/angstromctf/crypto/ranch/README.md)
+- [impossible](https://github.com/Hed6eH0g/ctf/blob/main/2023/angstromctf/crypto/impossible/README.md)
+- [Royal Society of Arts](https://github.com/Hed6eH0g/ctf/blob/main/2023/angstromctf/crypto/royal%20society%20of%20arts/README.md)
+- [Royal Society of Arts2](https://github.com/Hed6eH0g/ctf/blob/main/2023/angstromctf/crypto/royal%20society%20of%20arts%202/README.md)
 - 
