@@ -15,7 +15,7 @@ x_1 &= ax_0 + c \pmod{m}, \\
 x_2 &= ax_1 + c \pmod{m}, \\
 &\vdots, \\
 x_9 &= ax_8 + c \pmod{m}, \\
-x_{10} &= ax_9 + c \pmod{m}.
+x_{10} &= ax_9 + c \pmod{m}. \\ 
 \end{aligned}
 $$
 
