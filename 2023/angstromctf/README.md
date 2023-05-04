@@ -10,8 +10,8 @@
 
 ### web
 
-- [catch me if you can]()
-- [directory]()
+- [catch me if you can](https://github.com/Hed6eH0g/ctf/blob/main/2023/angstromctf/web/catch%20me%20if%20you%20can/README.md)
+- [directory](https://github.com/Hed6eH0g/ctf/blob/main/2023/angstromctf/web/directory/README.md)
  
 
 ### crypto
