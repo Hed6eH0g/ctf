@@ -11,10 +11,7 @@
 ### web
 
 - [catch me if you can]()
-- [Celeste Speedrunning Association]()
-- [shortcircuit]()
 - [directory]()
-- [Celeste Tunneling Association]()
  
 
 ### crypto
