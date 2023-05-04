@@ -4,8 +4,6 @@
 
 ![md5](https://github.com/Hed6eH0g/ctf/blob/main/2023/tamuctf/md5/md5_0.png)
 
-chall: [md5.zip](https://github.com/Hed6eH0g/ctf/blob/main/2023/tamuctf/md5/md5.zip)
-
 
 Since the function `md5sum` just return a portion of the digest of given bytes `b'echo lmao'` and our input is passed toward the shell (`out = subprocess.check_output(['/bin/bash', '-c', cmd])`), we can inject a shell command using hash collision.
 First, we tried to inject `ls` with a numeric suffix, it did not work as desired (the server did not respond the result of `ls`).
