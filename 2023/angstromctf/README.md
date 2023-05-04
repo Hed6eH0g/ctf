@@ -4,8 +4,8 @@
 
 ### misc
 
-- [Physics HW]()
-- [better me]()
+- [Physics HW](https://github.com/Hed6eH0g/ctf/blob/main/2023/angstromctf/misc/physics%20hw/README.md)
+- [better me](https://github.com/Hed6eH0g/ctf/blob/main/2023/angstromctf/misc/better%20me/README.md)
 
 
 ### web
