@@ -18,4 +18,4 @@
 
 ### Misc
 
-- [Prompt]()
+- [Prompt](https://github.com/Hed6eH0g/ctf/blob/main/2023/wanictf/misc/prompt/README.md)
