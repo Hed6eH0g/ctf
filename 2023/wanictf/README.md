@@ -11,10 +11,10 @@
 
 ### forensics
 
-- [Just_mp4]()
-- [whats_happening]()
-- [lowkey_messedup]()
-- [beg_for_a_peg]()
+- [Just_mp4](https://github.com/Hed6eH0g/ctf/blob/main/2023/wanictf/forensics/just_mp4/README.md)
+- [whats_happening](https://github.com/Hed6eH0g/ctf/blob/main/2023/wanictf/forensics/whats_happening/README.md)
+- [lowkey_messedup](https://github.com/Hed6eH0g/ctf/blob/main/2023/wanictf/forensics/lowkey_messedup/README.md)
+- [beg_for_a_peg](https://github.com/Hed6eH0g/ctf/blob/main/2023/wanictf/forensics/beg_for_a_peg/README.md)
 
 ### Misc
 
