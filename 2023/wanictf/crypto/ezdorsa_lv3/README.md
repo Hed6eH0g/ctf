@@ -4,7 +4,7 @@
 ![ezdorsa_lv3](https://github.com/Hed6eH0g/ctf/blob/main/2023/wanictf/crypto/ezdorsa_lv3/EZDORSA_Lv3_0.png)
 
 Since the modulus $n$ in this challenge is composed of 100 different small primes (25-bit size), we can factorize it with sagemath.
-As well as the usual RSA crypto, we can compute the Euler's totient function by the multiples of $(p_i-1)$, where $n = \prod_{i = 1}^{100} p_i$.
+As well as the usual RSA crypto, we can compute the Euler's totient function by the multiples of $(p_i-1)$, where $p_i (0 \leq i < 100)$ is a factor of $n$.
 After that, we can recover the flag in an ordinal manner.
 
  
