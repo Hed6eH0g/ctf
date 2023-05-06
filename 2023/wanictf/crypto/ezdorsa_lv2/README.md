@@ -1,7 +1,7 @@
 
 ### EZDORSA_Lv2
 
-![ezdorsa_lv2](https://github.com/Hed6eH0g/ctf/blob/main/2023/wanictf/ezdorsa_lv2/EZDORSA_Lv2_0.png)
+![ezdorsa_lv2](https://github.com/Hed6eH0g/ctf/blob/main/2023/wanictf/crypto/ezdorsa_lv2/EZDORSA_Lv2_0.png)
 
 In RSA crypto, the exponent $e$ has to be large enough so that an attacker cannot try the low public-exponent attack (LPA), which examines to compute the $e$-th root of the ciphertext $c$.
 
