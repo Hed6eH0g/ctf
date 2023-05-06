@@ -1,7 +1,7 @@
 
 ### EZDORSA_Lv1
 
-![ezdorsa_lv1](https://github.com/Hed6eH0g/ctf/blob/main/2023/wanictf/ezdorsa_lv1/EZDORSA_Lv1_0.png)
+![ezdorsa_lv1](https://github.com/Hed6eH0g/ctf/blob/main/2023/wanictf/crypto/ezdorsa_lv1/EZDORSA_Lv1_0.png)
 
 This challenge requests us to find $m$ such that the ciphertext is being $10$.
 We can explore with the following python code.
