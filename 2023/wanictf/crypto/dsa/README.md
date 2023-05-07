@@ -3,7 +3,7 @@
 ### dsa?
 
 
-![https://github.com/Hed6eH0g/ctf/blob/main/2023/wanictf/crypto/dsa/dsa_0.png]
+![dsa](https://github.com/Hed6eH0g/ctf/blob/main/2023/wanictf/crypto/dsa/dsa_0.png)
 
 This challenge is based on the RSA digital signature.
 We can get values `p, q, g, y , h=Hash(m), r, s` by connecting the server (dsa-cry.wanictf.org on port 50010), where `m` is the flag and `s` denotes a signature.
