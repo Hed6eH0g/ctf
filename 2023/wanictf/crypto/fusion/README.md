@@ -7,10 +7,7 @@
 
 In this challenge, we have a special value `r` which seems to be composed of masked `p` and `q`.
 The mask looks well-defined intensionally and one can find that it corresponds to `101010101...101` in binary representation.
-Thus, we can extract (128 * 16)/2-bits of `p` and `q` from `r` as
-$$ p = \begin{pmatrix}x_{1023} & r[1022] & \ldots & x_3 & r[2] & x_1 & r[0]\end{pmatrix} $$,
-$$ q = \begin{pmatrix}r[1023] & x_{1022} & \ldots & r[2] & x_2 & r[1] & x_0\end{pmatrix} $$,
-where $r[i]$ denotes the $i$-th bit of `r` and $x_j$ denotes the unknown $j$-th bit of `p` and `q`.
+Thus, we can extract the odd bits of `p` and the even bits of `q` from `r`.
 
 In addition, since the modulus `n = pq` is public, we can gradually guess the unknown values $x_j$ by evaluating the correspondence between the $k$-th bit of $n & mask$ and that of $(p*q) & mask$, where $mask = pow(2, i+1)-1$.  
 Therefore, the solver for this challenge can be as follows:
