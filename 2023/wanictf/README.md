@@ -2,6 +2,8 @@
 
 ## [WaniCTF](https://score.wanictf.org/)
 
+[official writeup](https://github.com/wani-hackase/wanictf2023-writeup)
+
 ### crypto
 
 - [EZDORSA_Lv1](https://github.com/Hed6eH0g/ctf/blob/main/2023/wanictf/crypto/ezdorsa_lv1/README.md)
@@ -21,3 +23,4 @@
 ### Misc
 
 - [Prompt](https://github.com/Hed6eH0g/ctf/blob/main/2023/wanictf/misc/prompt/README.md)
+
