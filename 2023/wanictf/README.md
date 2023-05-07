@@ -8,6 +8,8 @@
 - [EZDORSA_Lv2](https://github.com/Hed6eH0g/ctf/blob/main/2023/wanictf/crypto/ezdorsa_lv2/README.md)
 - [EZDORSA_Lv3](https://github.com/Hed6eH0g/ctf/blob/main/2023/wanictf/crypto/ezdorsa_lv3/README.md)
 - [pqqp](https://github.com/Hed6eH0g/ctf/blob/main/2023/wanictf/crypto/pqqp/README.md)
+- [fusion](https://github.com/Hed6eH0g/ctf/blob/main/2023/wanictf/crypto/fusion/README.md)
+- [dsa?](https://github.com/Hed6eH0g/ctf/blob/main/2023/wanictf/crypto/dsa/README.md)
 
 ### forensics
 
