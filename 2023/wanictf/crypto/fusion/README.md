@@ -9,7 +9,7 @@ In this challenge, we have a special value `r` which seems to be composed of mas
 The mask looks well-defined intensionally and one can find that it corresponds to `101010101...101` in binary representation.
 Thus, we can extract the odd bits of `p` and the even bits of `q` from `r`.
 
-In addition, since the modulus `n = pq` is public, we can gradually guess the unknown values $x_j$ by evaluating the correspondence between the $k$-th bit of $n & mask$ and that of `(p*q) & mask`, where `mask = pow(2, i+1)-1`.  
+In addition, since the modulus `n = pq` is public, we can gradually guess the unknown values $x_j$ by evaluating the correspondence between the $k$-th bit of `n & mask` and that of `(p*q) & mask`, where `mask = pow(2, i+1)-1`.  
 Therefore, the solver for this challenge can be as follows:
 ```
 from Crypto.Util.number import long_to_bytes                                                                                           import gmpy2
