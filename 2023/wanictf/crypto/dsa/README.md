@@ -10,14 +10,10 @@ We can get values `p, q, g, y , h=Hash(m), r, s` by connecting the server (dsa-c
 
 According to the signature procedure, we can deal with `p, q, g, h, r` as constant values and `y, s` are random variables.
 In addition, since `s = m(h + xr) = mh + mxr \pmod{q}`, gathering several signatures allows us to have the following equations.
-
-$$ s_1 - s_2 = m(x_1 - x_2)r $$, 
-
-$$ s_2 - s_3 = m(x_2 - x_3)r $$, 
-
-$$ s_3 - s_4 = m(x_3 - x_4)r $$,
-
-$$ \vdots $$.
+$$s_1 - s_2 = m(x_1 - x_2)r$$, 
+$$s_2 - s_3 = m(x_2 - x_3)r$$, 
+$$s_3 - s_4 = m(x_3 - x_4)r$$,
+$$\vdots$$.
 
 Thus, one can find that the gcd of the above equations gives us the desired flag.
 
