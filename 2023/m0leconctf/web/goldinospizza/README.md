@@ -2,11 +2,7 @@
 ### goldinospizza
 
 
-![goldinospizza]()
-
-The flag is written in the announce channel in the official discord.
-
-![flag](https://github.com/Hed6eH0g/ctf/blob/main/2023/m0leconctf/misc/sanity_check/sanity_check_flag.png)
+![goldinospizza](https://github.com/Hed6eH0g/ctf/blob/main/2023/m0leconctf/web/goldinospizza/goldinospizza_0.png)
 
 By extracting the attached zip file, we can find the following 42 files and `grep -i -r flag ./` allows us to find that the clue for the flag is in `./flask/api.py`.
 
