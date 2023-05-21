@@ -2,8 +2,9 @@
 
 ## [angstromCTF](https://angstromctf.com/)
 
-| username | hed6eh0g |
-| team     | Shinku   |
+| username | team |
+| --- | --- |
+| 	hed6eh0g | Shinku |
 
 ### misc
 
