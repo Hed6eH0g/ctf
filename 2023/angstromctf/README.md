@@ -2,6 +2,9 @@
 
 ## [angstromCTF](https://angstromctf.com/)
 
+| username | hed6eh0g |
+| team     | Shinku   |
+
 ### misc
 
 - [Physics HW](https://github.com/Hed6eH0g/ctf/blob/main/2023/angstromctf/misc/physics%20hw/README.md)
