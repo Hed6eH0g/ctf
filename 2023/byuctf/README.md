@@ -6,8 +6,9 @@
 
 ### forensics
 
-- [kcpassword](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf//kcpassword/README.md)
-- [Bing Chililing](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/forensics/bing_chilling/README.md)
+- [kcpassword](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/forencics/kcpassword/README.md)
+- [Bing Chililing](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/forencics/bing_chilling/README.md)
+- [What does the cougar say?](https://github.com/Hed6eH0g/ctf/tree/main/2023/byuctf/forencics/what_does_the_cougar_say/README.md)
 
 
 ### jail
