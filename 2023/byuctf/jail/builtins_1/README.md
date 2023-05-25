@@ -1,7 +1,7 @@
 
 ### Builtins 1
 
-![builtins_1](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/jail/builtins/figs/builtins_0.png)
+![builtins_1](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/jail/builtins_1/figs/builtins_1_0.png)
 
 Since the challenge specifies the python version, we begun with building a python container with the corresponding version.
 Then, a brief survey with the string `eval(input("code> "), {"__builtins__": {}}, {"__builtins__": {}}` leads us to [a post in the hacktricks](https://book.hacktricks.xyz/generic-methodologies-and-resources/python/bypass-python-sandboxes#builtins) and found that `().__class__.__bases__[0].__subclasses__()` allows us to look for some useful methods.
