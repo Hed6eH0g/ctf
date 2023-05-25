@@ -13,8 +13,8 @@
 
 ### jail
 
-- [Leet1](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/jail/leet1/README.md)
-- [Leet2](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/jail/leet2/README.md)
+- [Leet1](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/jail/leet_1/README.md)
+- [Leet2](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/jail/leet_2/README.md)
 - [Builtins 1](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/jail/builtins_1/README.md)
 
 
