@@ -1,5 +1,5 @@
 
-![Chicken again](https://github.com/Hed6eH0g/ctf/new/main/2023/byuctf/rev/chicken_again/figs/chicken_again.png)
+![Chicken again](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/rev/chicken_again/figs/chicken_again_0.png)
 
 The attached file consisting only of `chicken` looks like a programming language.
 Searching "chicken language" on Google hits [this wiki](https://esolangs.org/wiki/Chicken) and the sample code there looks like the similar one.
