@@ -1,4 +1,6 @@
 
+### Ducky1
+
 ![Ducky1](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/rev/ducky1/figs/ducky1_0.png)
 
 
