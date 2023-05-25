@@ -20,8 +20,8 @@
 
 ### misc
 
-- [006 I](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/misc/006_I/README.md)
-- [006 II](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/misc/006_II/README.md)
+- [006 I](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/misc/006_I-II/README.md)
+- [006 II](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/misc/006_I-II/README.md)
 - [006 III](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/misc/006_III/README.md)
 - [xkcd 2637](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/misc/xkcd_2637/README.md)
 - [Collision](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/misc/collision/README.md)
