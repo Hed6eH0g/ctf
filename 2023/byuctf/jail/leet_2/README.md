@@ -1,3 +1,6 @@
+
+### Leet 2
+
 ![Leet 2](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/jail/leet_2/figs/leet_2_0.png)
 
 The challenge at this time requests us to make `1337` without using brackets and decimal values excluding `0`.
