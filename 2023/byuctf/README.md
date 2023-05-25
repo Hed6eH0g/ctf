@@ -30,7 +30,7 @@
 ### OSINT
 
 - [It All Ads Up](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/osint/it_all_ads_up/README.md)
-- [It All Ads Up 2](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/osint/it_all_ads_up2/README.md)
+- [It All Ads Up 2](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/osint/it_all_ads_up_2/README.md)
 
 ### Rev
 
@@ -38,6 +38,7 @@
 - [RevEng](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/rev/reveng/README.md)
 - [obfuscJStor](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/rev/obfuscjstor/README.md)
 - [Chicken Again](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/rev/chicken_again/README.md)
+- [Chain](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/rev/chain/README.md)
 
 
 ### Pentesting
