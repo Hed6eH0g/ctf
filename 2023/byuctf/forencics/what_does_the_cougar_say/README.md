@@ -1,7 +1,7 @@
 
 ### What does the cougar say?
 
-![what does the cougar say](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/forencics/what_does_the_cougar_say/figs/what_does_the_cougar_say_0.png)
+![what does the cougar say](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/forencics/what_does_the_cougar_say/figs/what_does_courgar_say_0.png)
 
 
 Since an mp4 file was given, a brief look at the contents allows us to find that there are a few different frames in the movie.
