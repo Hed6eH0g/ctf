@@ -1,4 +1,6 @@
 
+### obfuscJStor
+
 ![obfuscJStor](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/rev/obfuscjstor/figs/obfuscjstor_0.png)
 
 As the given JS script is hard to read as it is, we began to make it readable with [beautifier](https://beautifier.io/).
