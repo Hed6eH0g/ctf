@@ -1,7 +1,7 @@
 
 ### RSA3
 
-![RSA3](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/crypto/rsa3/figs/rsa3_0.png)
+![RSA3](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/crypto/rsa3/figs/rsa3.png)
 
 In this challenge, we have different ciphertexts `c1, c2` which were encrypted by the same public key `e1` under distinct moduli `n1, n2`. 
 Since each modulus is composed of two prime numbers, we can try to check whether a prime is reused or not using gcd.
