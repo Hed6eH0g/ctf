@@ -1,4 +1,7 @@
-![RevEng](https://github.com/Hed6eH0g/ctf/new/main/2023/byuctf/rev/figs/reveng_0.png)
+
+### RevEng
+
+![RevEng](https://github.com/Hed6eH0g/ctf/blob/main/2023/byuctf/rev/figs/reveng_0.png)
 
 Opening with [IDA Free](https://hex-rays.com/ida-free/) allowed us to find `lea     rax, passphrase_encrypted ; "Xmj%yzwsji%rj%nsyt%f%sj|y"`.
 Since [dCode](https://www.dcode.fr/en) has a cipher identifier, we could try to check which encryption scheme is used for `Xmj%yzwsji%rj%nsyt%f%sj|y`.
