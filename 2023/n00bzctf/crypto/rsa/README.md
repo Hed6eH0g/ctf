@@ -1,7 +1,7 @@
 ### RSA
 
 
-![RSA](https://github.com/Hed6eH0g/ctf/blob/main/2023/seetf/crypto/rsa/rsa_0.png)
+![RSA](https://github.com/Hed6eH0g/ctf/blob/main/2023/n00bzctf/crypto/rsa/rsa_0.png)
  
 Though `e` is a little bit large for a usual case, this is a typical vulnerable example against Hastand's broadcast attack.
 ```
