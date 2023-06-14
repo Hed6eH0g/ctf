@@ -20,7 +20,6 @@
 - [qrazy_csv](https://github.com/Hed6eH0g/ctf/blob/main/2023/n00bzctf/forensics/qrazy_csv/README.md)
 - [hecked](https://github.com/Hed6eH0g/ctf/blob/main/2023/n00bzctf/forensics/hecked/README.md)
 - [lsb](https://github.com/Hed6eH0g/ctf/blob/main/2023/n00bzctf/forensics/lsb/README.md)
-- [beepbop](https://github.com/Hed6eH0g/ctf/blob/main/2023/n00bzctf/forensics/beepbop/README.md)
 
 
 
