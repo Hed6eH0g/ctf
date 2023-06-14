@@ -1,6 +1,6 @@
 ### Crack & Crack
 
-![Crack & Crack](https://github.com/Hed6eH0g/ctf/blob/main/2023/n00bzctf/corensics/crack_crack/crack_crack_0.png)
+![Crack & Crack](https://github.com/Hed6eH0g/ctf/blob/main/2023/n00bzctf/forensics/crack_crack/crack_crack_0.png)
 
 
 As the title stands for, we have to crack passwords twice in this challenge.
